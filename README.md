@@ -1,16 +1,24 @@
-## Hi there 👋
+# Noiro Media
 
-<!--
-**NoiroMedia/NoiroMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Free, open-source media apps for the big screen.
 
-Here are some ideas to get you started:
+We are building a simple TV experience for browsing your media, watching videos and picking up where you left off.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our projects
+
+| Project | Status |
+| --- | --- |
+| [Noiro Android TV](https://github.com/NoiroMedia/noiro-android-tv) | First development focus |
+| [Noiro Apple TV](https://github.com/NoiroMedia/noiro-apple-tv) | Planned |
+
+## Starting small
+
+Our first milestone is a dependable Android TV app with clear navigation, playback, subtitles and Continue Watching. Apple TV follows once the Android foundation is ready.
+
+**Early development:** the repositories currently contain project plans. There are no installable releases yet.
+
+## Get involved
+
+Share ideas and discuss features through each project's Issues. For larger contributions, open an issue to discuss the approach first.
+
+New original project files use the **MIT License**. Applicable upstream licenses and attribution will be preserved as development progresses.
